@@ -1,1 +1,1 @@
-My **sample deployment document** done by *sandeep*.
+My **sample development document** done by *sandeep*.
