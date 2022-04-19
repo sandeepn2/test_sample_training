@@ -1,0 +1,4 @@
+1. I have created SSH keygen
+2. I have cloned the file from the repo.
+3. I have added the new file as txt document in the folder which cloned from repo.
+4. I'm pushing this to the development repo.
